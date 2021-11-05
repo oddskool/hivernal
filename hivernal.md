@@ -16,7 +16,7 @@ Un des challenges en hiver c'est de pas perdre trop de points de vie avec le fro
 
 ### Premier truc: bien gérer sa thermique
 
-En gros, les phases où l'on est statique: on se couvre (grosse doudoune); ça inclut la préparation des sacs à la voiture, l'équipement au pied de la voie, les phases d'assurage. Les phases d'approche et de grimpe: on se découvre pour ne pas transpirer. On enlève la doudoune en partant de la voiture: ok on va avoir froid qq minutes puis on sera bien avec la chaleur dégagée par la marche. L'idée c'est d'éviter de transpirer, car la sueur + froid = glagla.
+En gros, les phases où l'on est statique: on se couvre (grosse doudoune); ça inclut la préparation des sacs à la voiture, l'équipement au pied de la voie, les phases d'assurage. Les phases d'approche et de grimpe: on se découvre pour ne pas transpirer. On enlève la doudoune en partant de la voiture: ok on va avoir froid qq minutes puis on sera bien avec la chaleur dégagée par la marche. L'idée c'est d'éviter de transpirer, car sueur + froid = glagla.
 
 ### Deuxième truc: éviter l'onglée
 
@@ -55,9 +55,9 @@ les indispensables niveau individuel de bas en haut:
 - baudard avec portes matériel
   - 3 mousquetons à vis, 2 sangles, 1 machard, 1 reverso ou équivalent
   - une longe à 2 positions (se bricole avec un bout de corde type iceline, un noeud de 8 à chaque bout et un papillon au milieu) - très pratique pour se vacher et pour enchaîner les rappels en descente. On peut la remplacer par une sangle.
-  - au moins 1 crochet à abalakov par cordée - ça se bricole avec un cintre métalique (tutos sur youtube)
+  - au moins 1 crochet à abalakov par cordée - ça se bricole avec un cintre métalique et une pince en qq minutes
   - on investira dans un porte broche en plastique à un moment
-- t-shirt synthétique ou merinos
+- t-shirt manches longues synthétique ou merinos
 - softshell (= polaire coupe vent) - pour la marche 
 - veste goretex ou autre membrane - pour la grimpe (pas trop cher ça s'use vite...)
 - 2 paires de gants fin (à considérer comme du consommable malheureusement)
