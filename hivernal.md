@@ -65,7 +65,7 @@ les indispensables niveau individuel de bas en haut:
 - 2 piolets cascade
   - = piolets avec un manche courbé (voire déporté) et de bons ergots pour poser les doigts
   - oubliez les piolets d'alpi estival avec un petit ergot, il faut des vrais type Quark/Apex ou équivalent (parfois certains loueurs les proposent quand même, se méfier)
-  - à noter que les piolets s'affûtent régulèrement pour garder une bonne pénétration dans la glace (= moins de fatigue, on frappe moins fort et on profite plus) - ça s'apprend pas trop mal, idéalement avoir un étau, une bonne lime et une lame neuve pour modèle
+  - à noter que les piolets s'affûtent régulèrement pour garder une bonne pénétration dans la glace (= moins de fatigue, on frappe moins fort et on profite plus) - ça s'apprend pas trop mal, idéalement avoir un étau, une bonne lime et une lame neuve pour modèle. On peut en particulier affuter la partie supérieure de la lame ce qui permet de désancrer plus facilement.
   - en général on prend un piolet avec une panne et un avec un marteau (sur le côté opposé à la lame) - le marteau est pratique pour retaper vite fait un piton en place dont on ne connait pas la tenue a priori.
 - grosse doudoune
   - synthétique ou duvet c'est égal je pense
@@ -97,7 +97,41 @@ Pour se lancer en autonomie dans l'activité, il faudra ajouter, par cordée:
 
 Vous avez compris, ça peut faire quelques noëls avant d'avoir un rack complet, mais en s'y mettant à plusieurs et en se limitant à du mixte facile on peut démarrer sans trop, trop se ruiner.
 
+## La gestuelle et la protection
+
+La gestuelle est importante en glace et en mixte puisqu'on se retrouve souvent à grimper au-dessus des points, en tout cas bien plus souvent qu'en grande voie. Pour donner une idée, sur une longueur de 50m, avec 12 broches dont 2 pour le relais ça fait 1 broche tous les 5 mètres en moyenne... (alors bien sûr on ne place pas les broches au hasard et on veut protéger les pas grimpants en priorité et laisser filer quand ça déroule). 
+
+Avant de se lancer en tête on recommande généralement d'avoir sous la ceinture 20 longueurs environ en second (ou en moule) dans le niveau de difficulté convoité. Encore plus qu'en été, un.e leader peu à l'aise risque de se mettre en danger et a minima prendra beaucoup de temps ce qui n'est pas très agréable ni rassurant pour les seconds. La chute avec piolets affûtés, crampons pointus et broches qui volent, j'ai testé pour vous et je ne recommande pas. 
+
+Pour cette raison (l'engagement), je pense qu'il est bon chaque saison, quel que soit le niveau, de commencer par un/des ateliers de gestuelle. Avant de se lancer dans de la vraie escalade sur glace on s'assurera qu'on a bien repris contact avec le support glace (qu'on a pas touché depuis 6 mois au moins...), qu'on est sûr de ses ancrages (piolets et pieds) et qu'on a bien en tête les sensations de grimpe et de protection.
+
+### Ateliers en glace
+
+Pour débuter, on peut commencer par travailler les frappes (piolets et crampons) au niveau du sol. Inutile de s'engager dans une longueur (même en second) si on a pas réussi à avoir la sensation d'un piolet et de crampons qui sont bien ancrés et stables. 
+
+Au début, pour les débutant.e.s un peu timides il n'est pas évident que le planté de piolet et de crampon nécessite une vraie force dans le geste. Tant qu'un piolet planté au niveau du sol reste branlant (souvent il suffit de se décaler de côté tout en tirant pour vérifier) on continue à travailler la sensation. Idem pour les pieds, un cramponnage à 10-20 cm du sol est suffisant pour tester les pieds et leur tenue (éviter de tomber au sol, avec les crampons on se fait vite une cheville...). On garde en tête la position cible pour le pied: pointe(s) avant(s) bien ancrée(s) dans la glace, talon un peu bas de sorte que la deuxième rangée de pointes soit en contact avec le support. C'est une des clefs de l'équilibre en glace. Contrairement au rocher, si l'on monte sur les pointes on risque fort de désancrer: les bouts ronds des chaussures rentrent en contact avec la glace et font sortir les pointes avant (visualiser de côté avec un cobaye est très parlant).
+
+En glace les ancrages de piolets nous coûtent cher (beaucoup de force nécessaire pour ancrer/désancrer), par contre les pieds c'est quasi gratos: on se fait ses prises où l'on veut et on peut se rééquilibrer à l'envi. D'où l'importance de visualiser la position du corps par rapport au piolet et d'ajuster les pieds en fonction d'une position d'équilibre cible. Une position de semi-repos classique est le triangle: le piolet le plus haut est la pointe et les deux pieds sont les deux autres sommets. Un triangle genre isocelle (avec les deux côté égaux) sera stable et forme une position dans laquelle la main sur le piolet le plus bas est disponible pour brocher. D'une manière générale on évitera de planter ses deux piolets au même niveau: ça ne fait pas gagner d'altitude et on se mets alors dans une position de type "épaule" bien trop coûteuse. La figure à éviter c'est l'étoile de mer: les pieds et mains éloignés du corps dans toutes les directions !
+
+Une fois un peu à l'aise, voici quelques exemples d'ateliers possibles, à faire en moule sur un support plus ou moins vertical:
+
+- grimpe avec 2 piolets, objectif que chaque frappe soit un bon ancrage 
+- grimpe avec 1 piolet, utiliser sa main libre pour équilibre, s'habituer à changer de main, à repositionner ses pieds en fonction de l'emplacement du piolet
+- grimpe sur un support travaillé par le passage: essayer de tout faire en crochetages (objectif = 0 frappes, le concours est ouvert)
+- grimpe en minimisant le nombre de coups de piolets (l'assureur.se compte et on compare avec le/la suivant.e)
+- grimpe en aveugle (bandeau) sur un support peu raide et homogène (travail des sensations de raideur, d'équilibre, de la position du corps par rapport au piolets)
+- grimpe en fausse-tête (on broche et on clip une corde qui pend en étant contre-assuré du haut) - le/la partenaire critique ensuite le choix des placements de broches (était-ce un endroit facile à brocher ? intéressant d'un point de vue protection d'une chute éventuelle ? probabilité de la chute vs risque si elle arrive)
+- grimpe sur un support raide et travail des placements de pieds: pieds à plat dès que possible, visualiser des semi-repos (triangle) et globalement minimiser les tirages sur les bras pour monter (idéalement essayer de n'utiliser les bras que pour s'équilibrer)
+
+
+### Ateliers en mixte
+
+
+
+
 ## Les conditions
+
+
 
 ### Comment repérer les condis
 
