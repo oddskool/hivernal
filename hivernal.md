@@ -1,8 +1,14 @@
-# Grimper en Hiver : ce que j'aurais aimé savoir avant de commencer
+
+
+
+# Grimper en Hiver : ce que j'aurais aimé savoir avant de commencer
+
 
 Voici une petite liste de trucs et astuces pour débuter la grimpe en hiver: mixte et cascade de glace.
 
-## La grimpe
+
+## La grimpe
+
 
 Mais pourquoi grimper en hiver ?
 
@@ -10,7 +16,7 @@ On pourrait dire qu'il y a le bleu envoûtant de la glace, la magie de la neige,
 
 En vrai je pense qu'il faut essayer, la sensation du piolet qui ancre dans la glace avec un beau "thunk" m'a toujours apporté beaucoup de satisfaction.
 
-## Le froid
+## Le froid
 
 Un des challenges en hiver c'est de pas perdre trop de points de vie avec le froid et d'en garder assez pour grimper.
 
@@ -18,7 +24,7 @@ Un des challenges en hiver c'est de pas perdre trop de points de vie avec le fro
 
 En gros, les phases où l'on est statique: on se couvre (grosse doudoune); ça inclut la préparation des sacs à la voiture, l'équipement au pied de la voie, les phases d'assurage. Les phases d'approche et de grimpe: on se découvre pour ne pas transpirer. On enlève la doudoune en partant de la voiture: ok on va avoir froid qq minutes puis on sera bien avec la chaleur dégagée par la marche. L'idée c'est d'éviter de transpirer, car sueur + froid = glagla.
 
-### Deuxième truc: éviter l'onglée
+### Deuxième truc: éviter l'onglée
 
 L'onglée, c'est la douleur qui t'arrache des cris quand la circulation revient dans un membre qui a (partiellement) gelé. C'est pas cool. En général c'est les mains. Du coup éviter toute manipulation à mains nues. Si on a besoin de lacer ses chaussures sans gants, le faire dans la voiture. 
 
@@ -34,7 +40,7 @@ Lutter contre le froid demande un effort à l'organisme. On veut s'alimenter et 
 
 Pour s'alimenter, mieux vaut avoir dans une poche de pantalon ou veste des graines / fruits secs ou barres. A noter que les fruit gèlent... On peut avoir un en-cas salé également, mais personne n'a envie de s'arrêter pique-niquer dans le froid en général. On compense donc par un méga goûter / apéro / diner en rentrant. 
 
-## Le matos
+## Le matos
 
 les indispensables niveau individuel de bas en haut:
 
@@ -133,13 +139,13 @@ Une fois un peu à l'aise, voici quelques exemples d'ateliers possibles, à fair
 
 
 
-### Comment repérer les condis
+### Comment repérer les condis
 
-### Comment choisir sa voie
+### Comment choisir sa voie
 
 
 
-## Les risques
+## Les risques
 
 ### Les différents risques
 
