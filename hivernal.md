@@ -7,7 +7,7 @@
 Voici une petite liste de trucs et astuces pour débuter la grimpe en hiver: mixte et cascade de glace.
 
 
-## La grimpe
+## La grimpe en hiver ?
 
 
 Mais pourquoi grimper en hiver ?
@@ -48,7 +48,7 @@ les indispensables niveau individuel de bas en haut:
   - idéalement cramponnables en automatique (débord avant et arrière)
   - à minima cramponnables en semi-auto = avec débord arrière
   - pour commencer on peut y aller en chaussures d'alpi estival mais très vite c'est limité au niveau thermique
-  - des chaussures de ski de rando légères ça peut le faire si approche à ski (autrement c'st relou de marcher avec)
+  - des chaussures de ski de rando légères ça peut le faire si approche à ski (autrement c'est relou de marcher avec)
 - crampons
   - éviter les crampons tout lanières (ils se barrent dès qu'on grimpe avec c'est un peu l'angoisse) 
   - à minima crampon semi-auto à l'arrière
@@ -62,7 +62,7 @@ les indispensables niveau individuel de bas en haut:
   - 3 mousquetons à vis, 2 sangles, 1 machard, 1 reverso ou équivalent
   - une longe à 2 positions (se bricole avec un bout de corde type iceline, un noeud de 8 à chaque bout et un papillon au milieu) - très pratique pour se vacher et pour enchaîner les rappels en descente. On peut la remplacer par une sangle.
   - au moins 1 crochet à abalakov par cordée - ça se bricole avec un cintre métalique et une pince en qq minutes
-  - on investira dans un porte broche en plastique à un moment
+  - on investira dans un/deux porte broche en plastique à un moment
 - t-shirt manches longues synthétique ou merinos
 - softshell (= polaire coupe vent) - pour la marche 
 - veste goretex ou autre membrane - pour la grimpe (pas trop cher ça s'use vite...)
@@ -95,7 +95,7 @@ Pour se lancer en autonomie dans l'activité, il faudra ajouter, par cordée:
 - des coinceurs / friends / hexentrics / pitons / sangles (pour le mixte)
   - le rack exact dépendra de la course
   - à noter que les friends tiennent mal si les fissures sont recouvertes de verglas et donc un peu moins utiles en hiver
-  - savoir retaper un piton en place ça rassure, en poser un peut vous permettre une réchappe pas trop coûteuse
+  - savoir retaper un piton en place ça rassure, savoir en poser peut vous permettre une réchappe pas trop coûteuse
 - des cordes 
   - le standard est de 2x60m, mais 2x50 ça peut passer
   - le diamètre a tendance à être fin (<9mm) pour un gain de poids mais attention, les cordes très fines ~8mm ça peut filer rapidement à l'assurage et pour le rocher ça peut être trop fragile
@@ -117,7 +117,9 @@ Pour débuter, on peut commencer par travailler les frappes (piolets et crampons
 
 Au début, pour les débutant.e.s un peu timides il n'est pas évident que le planté de piolet et de crampon nécessite une vraie force dans le geste. Tant qu'un piolet planté au niveau du sol reste branlant (souvent il suffit de se décaler de côté tout en tirant pour vérifier) on continue à travailler la sensation. Idem pour les pieds, un cramponnage à 10-20 cm du sol est suffisant pour tester les pieds et leur tenue (éviter de tomber au sol, avec les crampons on se fait vite une cheville...). On garde en tête la position cible pour le pied: pointe(s) avant(s) bien ancrée(s) dans la glace, talon un peu bas de sorte que la deuxième rangée de pointes soit en contact avec le support. C'est une des clefs de l'équilibre en glace. Contrairement au rocher, si l'on monte sur les pointes on risque fort de désancrer: les bouts ronds des chaussures rentrent en contact avec la glace et font sortir les pointes avant (visualiser de côté avec un cobaye est très parlant).
 
-En glace les ancrages de piolets nous coûtent cher (beaucoup de force nécessaire pour ancrer/désancrer), par contre les pieds c'est quasi gratos: on se fait ses prises où l'on veut et on peut se rééquilibrer à l'envi. D'où l'importance de visualiser la position du corps par rapport au piolet et d'ajuster les pieds en fonction d'une position d'équilibre cible. Une position de semi-repos classique est le triangle: le piolet le plus haut est la pointe et les deux pieds sont les deux autres sommets. Un triangle genre isocelle (avec les deux côté égaux) sera stable et forme une position dans laquelle la main sur le piolet le plus bas est disponible pour brocher. D'une manière générale on évitera de planter ses deux piolets au même niveau: ça ne fait pas gagner d'altitude et on se mets alors dans une position de type "épaule" bien trop coûteuse. La figure à éviter c'est l'étoile de mer: les pieds et mains éloignés du corps dans toutes les directions !
+En glace les ancrages de piolets nous coûtent cher (beaucoup de force nécessaire pour ancrer/désancrer), par contre les pieds c'est quasi gratos: on se fait ses prises où l'on veut et on peut se rééquilibrer à l'envi. D'où l'importance de visualiser la position du corps par rapport au piolet et d'ajuster les pieds en fonction d'une position d'équilibre cible. Une séquence typique est le planté d'un piolet haut - soit à la verticale, soit en décalé suivant le cheminement - suivi du repositionement des pieds pour atteindre une position d'équilibre.
+
+Une position de semi-repos classique est le triangle: le piolet le plus haut est la pointe et les deux pieds sont les deux autres sommets. Un triangle genre isocelle (avec les deux côté égaux) sera stable et forme une position dans laquelle la main sur le piolet le plus bas est disponible pour brocher. D'une manière générale on évitera de planter ses deux piolets au même niveau: ça ne fait pas gagner d'altitude et on se mets alors dans une position de type "épaule" bien trop coûteuse. Le pire, la figure à éviter c'est l'étoile de mer: les pieds et mains éloignés du corps dans toutes les directions ! 
 
 Une fois un peu à l'aise, voici quelques exemples d'ateliers possibles, à faire en moule sur un support plus ou moins vertical:
 
@@ -126,18 +128,23 @@ Une fois un peu à l'aise, voici quelques exemples d'ateliers possibles, à fair
 - grimpe sur un support travaillé par le passage: essayer de tout faire en crochetages (objectif = 0 frappes, le concours est ouvert)
 - grimpe en minimisant le nombre de coups de piolets (l'assureur.se compte et on compare avec le/la suivant.e)
 - grimpe en aveugle (bandeau) sur un support peu raide et homogène (travail des sensations de raideur, d'équilibre, de la position du corps par rapport au piolets)
-- grimpe en fausse-tête (on broche et on clip une corde qui pend en étant contre-assuré du haut) - le/la partenaire critique ensuite le choix des placements de broches (était-ce un endroit facile à brocher ? intéressant d'un point de vue protection d'une chute éventuelle ? probabilité de la chute vs risque si elle arrive)
 - grimpe sur un support raide et travail des placements de pieds: pieds à plat dès que possible, visualiser des semi-repos (triangle) et globalement minimiser les tirages sur les bras pour monter (idéalement essayer de n'utiliser les bras que pour s'équilibrer)
+- grimpe en tête avec broches en place - bien pour s'habituer psychologiquement à l'engagement tout en diminuant la difficulté - ne pas brocher évite le risque de crisper les bras/épaules et de finir vidé après chaque ancrage
+- grimpe en fausse-tête (on broche et on clip une corde qui pend en étant contre-assuré du haut) - le/la partenaire critique ensuite le choix des placements de broches (était-ce un endroit facile à brocher ? intéressant d'un point de vue protection d'une chute éventuelle ? probabilité de la chute vs risque si elle arrive)
 
 
-### Ateliers en mixte
+### En mixte
 
+Globalement, le mixte se prête également aux ateliers et l'on peut piocher quelques idées ci-dessus. Une différence notable: on ne frappe pas les piolets (sauf si il y a de la glace et qu'elle est suffisament épaisse): soit on les coince, soit on les pose sur des réglettes. De même pour les pieds. Le toucher des crampons et des piolets sur le rocher est particulier, et il faut un peu de pratique pour être à l'aise avec ça.
 
+Une bonne manière de progresser est de pratiquer le dry tooling (grimpe sur rocher avec piolets et protections sur spits). La protection sur spits est rassurante (on évitera quand même de tomber à la 1ère dégaine avec les crampons) et permet de tenter des mouvements physiques ou techniques. Les voies peu raides sont ce qui se rapproche le plus de ce que l'on va trouver sur ses premières voies en montagne et sont intéressantes pour développer le touché. Les voies en dévers pour travailler le physique, les placements et sont également un bon entraînement pour la glace raide. Le fait que la plupart des voies comprennent des trous forés est un peu limitant au niveau toucher mais pas plus ) mon avis que la différence entre la résine des prises en salle et le vrai rocher en escalade. Les apports les plus intéressants du dry sont probablement la constitution d'un répertoire de mouvements dans lesquels on va piocher une fois confronté à du vrai rocher en montagne et bien sûr le physique !
 
 
 ## Les conditions
 
+Une bonne partie de la réussite et de la sécurité en hiver se joue avant d'arriver au parking. On peut (devrait) essayer d'avoir toujours plusieurs options dans un même secteur, mais à cause de la longueur des approches et de la durée réduite des journées ce n'est pas toujours possible - sans compter que les voies d'un même secteur sont soumises en général à des conditions similaires.
 
+De m
 
 ### Comment repérer les condis
 
@@ -147,7 +154,10 @@ Une fois un peu à l'aise, voici quelques exemples d'ateliers possibles, à fair
 
 ## Les risques
 
+
 ### Les différents risques
+
+
 
 
 
