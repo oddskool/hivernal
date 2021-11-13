@@ -144,13 +144,45 @@ Une bonne manière de progresser est de pratiquer le dry tooling (grimpe sur roc
 
 Une bonne partie de la réussite et de la sécurité en hiver se joue avant d'arriver au parking. On peut (devrait) essayer d'avoir toujours plusieurs options dans un même secteur, mais à cause de la longueur des approches et de la durée réduite des journées ce n'est pas toujours possible - sans compter que les voies d'un même secteur sont soumises en général à des conditions similaires.
 
-De m
+De même qu'en alpi estival on joue en général sur la réserve (en cas de doute on préfère renoncer pour revenir grimper un autre jour plutôt que de forcer le destin et potentiellement se mettre en danger). Ce qui veut dire que la progression peut être lente à cause de renoncements successifs ou de problèmes de conditions, de disponibilités, de partenaires...
 
-### Comment repérer les condis
+Pour enrayer ça il s'agit donc de profiter de chaque opportunité au maximum, en restant dans une marge de sécurité que l'on jugera satisfaisante. Une façon de penser qui a fait ses preuves est de se rendre flexible aux conditions: on va grimper là où c'est en condis, où on a le niveau et le/la/les partenaires. Certes on peut rêver à une voie ou à une cascade en particulier, mais il faut probablement ne pas en faire un critère de choix pour dimanche prochain.
 
-### Comment choisir sa voie
+### Comment repérer les condis et choisir sa voie
 
+Une fois la date et les partenaires fixés il s'agit ensuite de choisir un secteur et une voie. Pour choisir un secteur, on réalise essentiellement une prédiction: je pense, au vu des infos que j'ai, que ce secteur ou ce type de voies à telle altitude, telle orientation, dans tel massif seront en conditions ce weekend. On a donc envie d'apprendre à faire ce genre de prédictions avec une bonne précision. 
 
+Bien sûr, avec C2C et les réseaux sociaux on a aujourd'hui plus d'infos que jamais... mais aussi plus de fréquentation et une concentration plus importante de cordées aux mêmes endroits. Ce qui est un risque puisqu'en glace on évite de se superposer dans une cascade à plusieurs cordées au vu du rique de chutes de glace, de se peler dans les bouchons etc. Idéalement on vise de pouvoir prédire quel secteur va être en condis pour ce week-end avant qu'il ne sorte sur FB et devienne infréquentable...
+
+Une façon de réfléchir au problème consiste à se servir des infos comme de réalisations à partir desquelles on va remonter le fil des indices qui pouvaient laisser penser que la voie pouvait être en condis. Par exemple: ok la "colère du ciel“ a été faite ce week-end, plein de monde et la glace était dure d'après les comptes rendus ou les copain/copines qui étaient sur place - ça peut se comprendre parceque: on est mi-janvier, en pleine saison + la voie est à 1300m en Nord + la température max à cette altitude est négative tous les jours depuis 15j + cette cascade est régulièrement en conditions et bien alimentée en eau + les prévisions de la mi-semaine disaient pas de neige et températures vers -15°. 
+
+Vient ensuite la question de ce qui va être en conditions le week-end prochain. Pour ça il va falloir éplucher les indices au cours de la semaine pour prédire quel type de voie, quel massif, quelle altitude/versants sont à considérer. Le plus important pour progresser sera alors de vérifier si ses prédictions étaient vérifiées après le weekend (de la même manière que le debrief au retour de la course est un moment privilégié pour progresser en alpi). D'ailleurs même si vous faites du ski ce weekend ou si vous ne pouvez pas sortir, rien n'empêche de regarder la météo, de prédire les condis ou le type de voie et le dimanche soir de vérifier si vos prédictions étaient conformes à ce que vous avez observé et/ou en checkant les sorties rentrées sur C2C ou autre !
+
+Ca vous semble compliqué ? Ca l'est sans aucun doute... Mais rassurez vous, ça s'apprend petit à petit et on devient de plus en plus efficace au fil des saisons. Simon Richardson, un des plus grand ouvreurs écossais (des centaines de voies nouvelles en hiver) travaille à plein temps, a une famille et ne peut sortir avec son partenaire que les dimanches d'hiver. Il a réussi tout ça en étant flexible sur les objectifs et en acceptant d'aller grimper où les condis sont bonnes, telles qu'ils les prédites au cours de la semaine.
+
+Une dernière chose: pour faciliter le choix de la voie, je me fais des listes de voies par massif, dans les difficultés que je cible et je les trie par type de condis nécessaires. Par ex, certaines nécessiteront une période de grand froid ou de redoux, seront plus ou moins usuellement en condis en début ou fin de saison etc. Utiliser un topo papier est souvent plus informatif que camptocamp à cet égard.
+
+### Une routine pour choisir sa voie
+
+- Lundi/mardi
+  - noter les condis rencontrées en montagne le week-end précédent et/ou les extraire des comptes rendus et des photos disponibles
+- Mercredi/jeudi
+  - prendre la météo du week-end, regarder les historiques de températures et de précipitations
+  - se faire une image mentale de comment les condis du weekend dernier peuvent évoluer
+- Vendredi ou samedi
+  - prendre la dernière prévi météo
+  - prédire quel type de voie, à quelle altitude, dans quel massif seront en conditions
+  - lister les voies possibles au vu des difficultés et des risques potentiels (nivo principalement)
+  - se mettre d'accord sur un plan A et d'éventuels plans B/C
+- samedi et/ou dimanche
+  - aller sur place et vérifier si tout colle
+    - au parking: la température, la hauteur de neige fraîche, la fréquentation, coulées ou avalanches visibles sur d'autres pentes
+    - au pied de la voie: épaisseur et qualité de la glace, présence d'autres cordées, coulées ou avalanches visibles sur d'autres pentes
+  - si on a décidé de grimper, y aller !
+- dimanche soir
+  - debriefer ou méditer à tout ça devant une tisane, en essayant de comprendre les différences entre prédiction et réalité, et s'il y avait des signes que l'on a ignorés ou mal interprétés
+
+Les limites de ce système sont d'une part que des voies déjà en conditions le seront probablement le week-end prochain (sauf redoux ou neige importante) - ce qui rend la prédiction plus facile - et d'autre part qu'une voie pas rentrée sur C2C pouvait très bien être en condis mais personne n'y est allé (dans ce cas on reste dans le doute quant à la prédiction, le mieux est d'y aller le weekend prochain pour vérifier!).
 
 ## Les risques
 
@@ -160,6 +192,13 @@ De m
 
 
 
-
 ### Comment gérer le risque
+
+
+## Le mot de la fin
+
+Alors certain.e.s diront probablement que ce petit texte intellectualise trop une activité qu'on peut pratiquer avant tout au feeling et à l'expérience -  ce qui est probablement vrai, il est le produit de mon expérience et de ma façon de voir les choses! Mais si une phrase ou une idée vous aide ou vous inspire à un moment de votre activité en hiver il aura remplit son office :)  
+
+
+
 
