@@ -186,13 +186,53 @@ Les limites de ce système sont d'une part que des voies déjà en conditions le
 
 ## Les risques
 
+La glace et le mixte sont par définition un concentré de contraintes: risque avalanche, de chute, de fréquentation, de se faire prendre par la nuit etc. Il n'en est que plus satisfaisant de rentrer d'une sortie en ayant (l'impression d'avoir) géré tout ça correctement :)
 
-### Les différents risques
+### La chute
 
+Le risque évident auquel on pense est celui de chute, en particulier dès qu'on s'aventure sur de la glace ou du mixte avec sections verticales. Un double apprentissage s'impose: connaître ses limites de résistance pour savoir où se reposer avant d'arriver cramé.e bien au-dessus du point, et savoir poser des protections qui tiennent. Pour la résistance, la pratique du dry permet de la travailler, et aussi d'avoir des sensations de forme dès l'automne qui seront précieuses pour les premières cascades. Pour la protection rocher, le plus simple est de pratiquer le trad et donc d'avoir une pratique récente et des sensations dès le début de l'hiver. On peut également apprendre à pitonner, ça peut servir dans certains rochers compacts (hello Belledonne!) et/ou pour une réchappe. 
 
+Pour la pose de broches, rien ne vaut une séance de moulinette avec pose de broche et critique mutuelle. A savoir que dès les broches courtes/jaunes la résistance dans une bonne glace est largement suffisante d'après les tests de l'ENSA pour retenir une chute. La question est donc plutôt de juger de la qualité de la glace. Une info importante est donnée par la carotte qui sort de la broche lors du vissage: on la préfère bien continue. S'il y a des vides (portions de brochage sans carotte), cela signifie que l'on a rencontré une bulle d'air. Si on a une broche bleue ou grise et que l'on retrouve une zone plus profonde avec une belle carotte, je pense qu'on peut s'en contenter en général. Dans le cas contraire on cherche un autre emplacement. Faute de mieux on peut doubler les broches ou les mettre en série. Les emplacements propices pour brocher sont des zones où la glace est "grasse", par exemple des bases de piliers. Si la glace de surface est transparente et cassante, on devra probablement la nettoyer pour accéder à une glace plus opaque et plus solide dessous - particulièrement lors des premiers passages sur une cascade. 
 
+Enfin, tout le système de protection ne doit pas occulter que la protection numéro un est l'aisance des grimpeur.e.s: brocher coûte de l'énergie, de même que galérer à placer un friend à bout de bras et on accumule au fil de la longueur. D'où l'importance du travail de la gestuelle et de la tactique de protection: savoir profiter des semi-repos, et protéger avant les pas durs, quand on est encore dans une position assez confort. La phase de lecture de la longueur avant de se lancer est donc une bonne pratique. On peut d'ailleurs prédire combien de broches on aura besoin et où on pense les placer pour ensuite debriefer après la longueur. Il n'est pas rare qu'on en mette un peu plus que ce que l'on pensait.
+
+### Le relais: chute et glaçons
+
+Ce qui m'amène à la question du relais, qui sert à protéger de deux risques: la chute de grimpeur.e.s et de glaçons/pierres etc. Pour la protection des second.e.s, une recommendation importante est d'assurer directement sur le relais (au demi-cab avec un gros mousqueton à vis): en cas de chute en tête l'assureur.e n'est pas projeté en l'air avec tout ce que ça suppose de possibilités de se faire mal... Pour la construction du relais il y a plusieurs options. En bonne glace, la mise en série des broches sur un anneau de corde avec noeud de bouline central (aussi appelée pré-contraint) est une bonne option, avec la seconde broche qui prends le relais de la première en cas de forte chute. En glace moyenne, une grande cordelette pour égaliser 3/4 broches a son intérêt également. Se méfier des relais sur spits en rocher, certains relais de cascades équipés de spits de spéléo de 8 dans les années 90 sont maintenant bien dangereux (j'ai déjà cassé un spit rouillé en voulant le revisser). Dans le doute, on fera un backup sur piton/coinceur ou bien on fera relais sur broches. 
+
+L'autre aspect important est le placement du relais. On est bien sûr limité par la longueur de corde, mais aussi et surtout par les emplacements disponibles où un relais sera protégé des chutes de glace. Il faut pas mal d'expérience et ce n'est pas toujours possible suivant les conditions de ne pas détacher de glace lors des frappes de piolet. En fait c'est même plutôt l'inverse: on décroche quasi systématiquement des glaçons qui prennent de la vitesse et des trajectoires imprévisibles en ricochant. Un élément de sécurité est la présence de pentes de neige entre les ressauts (pour arrêter les glaçons) et bien sûr de décaler les relais de la ligne de grimpe. Dans les cascades équipées les relais sont en général placés sur les côtés et aux endroits les plus safe, mais on y réfléchira quand même. Éviter de s'entasser dans les voies à la queue-leu-leu est également recommandé...
+
+### L'avalanche
+
+La plupart des cascades sont alimentées par des pentes de neige au-dessus et sont donc sensibles au risque avalanche. Par exemple le Vallon du Diable est connu pour être extrêmement avalancheux, une pente de plus d'un km² se trouvant au dessus des faces Nord - pente que l'on aperçoit pas si l'on chemine au pied d'ailleurs. Les voies de mixte peuvent être également soumises à ce risque, et dans tous les cas on étudiera les pentes de l'approche et de la descente, ainsi que les pentes les surplombant. Une formation avalanche, remise à niveau, et couplée à une bonne étude du BRA et des conditions prévues par la météo doivent faire partie de la routine des glaciéristes à mon sens. On n'oubliera pas également de se reposer la question au parking, au vu des observations possibles (a-t-il neigé plus que prévu, des signes de vent, des avalanches récentes sur d'autres versants ?) ainsi que lorsqu'on a la cascade en visuel.
+
+### Les risques dus aux conditions de la cascade
+
+De même, on appliquera aux conditions de glace le triple questionnement à la maison (températures passées, prévues), au parking (autres cascades visibles, température) et lorsqu'on a la voie en visuel (est-ce que ça coule, épaisseur de la glace, présence de stalactites menaçantes pour l'approche et pour la grimpe etc). 
+
+Les risques usuels sont: 
+
+- pas assez de glace pour brocher
+- glace fine et débit important -> douche froide...
+- température trop froide -> glace cassante et dure à grimper
+- température trop chaude -> chute de pierres, de stalactites, de glaçons
+- cascade pas encore grimpée -> du nettoyage à faire (par ex des stalactites menaçants les second.e.s)
+- effondrement d'une partie de la cascade ("cloches" en particulier, mais également "choux fleurs" et "méduses")
+
+Les risques d'effondrement massif de la structure concernent à mon avis principalement des cascades aux structures verticales (cigares, free standings et structures pendues), plutôt les fins de saison et moins les voies les plus abordables et les cascades les plus "posées". On fera attention cependant aux signes suivants: 
+
+- beaucoup d'eau qui coule, notamment entre le rocher et la glace -> risque de décollement d'une partie de la glace
+- présence d'une cloche fine et eau qui coule dessous -> risque de passer au travers
+- fracture horizontale sur un pilier -> la structure est alors "semi-pendue" et peut effondrer 
+- son qui fait vibrer la structure lors de la frappe -> glace sous tension et risque de fractures importantes
+
+L'alimentation en eau de la cascade permet également de comprendre mieux le risque d'effondrement d'une partie: une résurgence peut avoir une température largement positive même par temps très froid, une alimentation par fonte de neige de surface sera stoppée par temps froid en pas ensoleillé.
+
+Enfin, les topos les mieux faits (ex Queyras) mentionnent le mécanisme de fin de vie de chaque cascade et les risques d'effondrement éventuels. 
 
 ### Comment gérer le risque
+
+Comme on le voit, il y a beaucoup de choses à gérer... une façon de rendre le processus un peu plus digeste est de considérer ça comme un apprentissage qui durera probablement plusieurs saisons. Au-delà des premières sorties pour lesquelles l'accompagnement d'un.e alpiniste plus expérimenté.e permettra de pratiquer et donc d'apprendre par osmose, je suggère d'augmenter la difficulté très progressivement et suivant des axes indépendants. Par exemple, si on souhaite grimper un grade au-dessus, on peut prévoir de faire du dry pour se faire les bras, de commencer par de la moulinette sur une cascade qui le permet facilement plutôt que de se lancer sur une cascade du niveau convoité mais située dans un secteur inconnu avec approche longue, risque d'avalanche identifié etc. A l'inverse si l'on souhaite sortir des sentiers battus, on pourra prévoir de baisser un peu son niveau et de grimper plus facile dans le secteur de la voie convoitée histoire de repérer les approches, les descentes et les particularités du lieu et des conditions des cascades peu fréquentées avant de se lancer à vue sur un objectif challenge au niveau grimpe.
 
 
 ## Le mot de la fin
@@ -201,4 +241,6 @@ Alors certain.e.s diront probablement que ce petit texte intellectualise trop un
 
 
 
+## Bibliographie
 
+à venir
