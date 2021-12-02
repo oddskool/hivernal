@@ -18,7 +18,7 @@ En vrai je pense qu'il faut essayer, la sensation du piolet qui ancre dans la gl
 
 ## Le froid
 
-Un des challenges en hiver c'est de pas perdre trop de points de vie avec le froid et d'en garder assez pour grimper.
+Un des challenges en hiver c'est de ne pas perdre trop de points de vie avec le froid et d'en garder assez pour grimper.
 
 ### Premier truc: bien gérer sa thermique
 
@@ -51,7 +51,7 @@ les indispensables niveau individuel de bas en haut:
   - des chaussures de ski de rando légères ça peut le faire si approche à ski (autrement c'est relou de marcher avec)
 - crampons
   - éviter les crampons tout lanières (ils se barrent dès qu'on grimpe avec c'est un peu l'angoisse) 
-  - à minima crampon semi-auto à l'arrière
+  - à minima crampons semi-auto à l'arrière
   - pour débuter des crampons d'alpi glaciaire suffisent (dont les pointes avant sont horizontales)
   - le top c'est des crampons de cascade = à pointes avant verticales 
   - dans tous les cas, les régler au chaud à la maison sinon onglée garantie !
@@ -81,7 +81,7 @@ les indispensables niveau individuel de bas en haut:
 - casque d'alpi
 - lunettes de soleil (parfois il y en a, et aussi des débris de glace)
 
-Alors c'est sûr pour démarrer l'activité ça fait pas mal de matos. Les gants fins on peut pas faire sans... les essayer absolument, il faut pouvoir bien bouger les doigts et aussi avoir de la précision pour pouvoir faire un noeud. Les crampons et chaussures pour démarrer on prendra ceux d'été, et je conseille d'investir dans des semi-autos dès le départ. Les chaussures peuvent parfois se louer / prêter mais ça peut être galère de trouver sa taille. Pour la veste et le pantalon si on doit acheter prendre pas cher (Simond par ex), au rythme où ça s'use ça vaut pas le coup d'y mettre trop.  Les piolets ça se loue normalement, mais prévoir à l'avance, le stock est limité en général. Le reste vous devriez déjà avoir ou bien ça resservira pour l'alpi estival.
+Alors c'est sûr pour démarrer l'activité ça fait pas mal de matos. Les gants fins on peut pas faire sans... les essayer absolument, il faut pouvoir bien bouger les doigts et aussi avoir de la précision pour pouvoir faire un noeud (s'imaginer clipper/déclipper une dégaine). Les crampons et chaussures pour démarrer on prendra ceux d'été, et je conseille d'investir dans des semi-autos dès le départ. Les chaussures peuvent parfois se louer / prêter mais ça peut être galère de trouver sa taille. Pour la veste et le pantalon si on doit acheter prendre pas cher (Simond par ex), au rythme où ça s'use ça vaut pas le coup d'y mettre trop.  Les piolets ça se loue normalement, mais prévoir à l'avance, le stock est limité en général. Le reste vous devriez déjà avoir ou bien ça resservira pour l'alpi estival.
 
 Pour se lancer en autonomie dans l'activité, il faudra ajouter, par cordée:
 
@@ -117,7 +117,7 @@ Pour débuter, on peut commencer par travailler les frappes (piolets et crampons
 
 Au début, pour les débutant.e.s un peu timides il n'est pas évident que le planté de piolet et de crampon nécessite une vraie force dans le geste. Tant qu'un piolet planté au niveau du sol reste branlant (souvent il suffit de se décaler de côté tout en tirant pour vérifier) on continue à travailler la sensation. Idem pour les pieds, un cramponnage à 10-20 cm du sol est suffisant pour tester les pieds et leur tenue (éviter de tomber au sol, avec les crampons on se fait vite une cheville...). On garde en tête la position cible pour le pied: pointe(s) avant(s) bien ancrée(s) dans la glace, talon un peu bas de sorte que la deuxième rangée de pointes soit en contact avec le support. C'est une des clefs de l'équilibre en glace. Contrairement au rocher, si l'on monte sur les pointes on risque fort de désancrer: les bouts ronds des chaussures rentrent en contact avec la glace et font sortir les pointes avant (visualiser de côté avec un cobaye est très parlant).
 
-En glace les ancrages de piolets nous coûtent cher (beaucoup de force nécessaire pour ancrer/désancrer), par contre les pieds c'est quasi gratos: on se fait ses prises où l'on veut et on peut se rééquilibrer à l'envi. D'où l'importance de visualiser la position du corps par rapport au piolet et d'ajuster les pieds en fonction d'une position d'équilibre cible. Une séquence typique est le planté d'un piolet haut - soit à la verticale, soit en décalé suivant le cheminement - suivi du repositionement des pieds pour atteindre une position d'équilibre.
+En glace les ancrages de piolets nous coûtent cher (beaucoup de force nécessaire pour ancrer/désancrer), par contre les pieds c'est quasi gratos: on se fait ses prises où l'on veut et on peut se rééquilibrer à l'envie. D'où l'importance de visualiser la position du corps par rapport au piolet et d'ajuster les pieds en fonction d'une position d'équilibre cible. Une séquence typique est le planté d'un piolet haut - soit à la verticale, soit en décalé suivant le cheminement - suivi du repositionement des pieds pour atteindre une position d'équilibre.
 
 Une position de semi-repos classique est le triangle: le piolet le plus haut est la pointe et les deux pieds sont les deux autres sommets. Un triangle genre isocelle (avec les deux côté égaux) sera stable et forme une position dans laquelle la main sur le piolet le plus bas est disponible pour brocher. D'une manière générale on évitera de planter ses deux piolets au même niveau: ça ne fait pas gagner d'altitude et on se mets alors dans une position de type "épaule" bien trop coûteuse. Le pire, la figure à éviter c'est l'étoile de mer: les pieds et mains éloignés du corps dans toutes les directions ! 
 
@@ -158,7 +158,7 @@ Une façon de réfléchir au problème consiste à se servir des infos comme de 
 
 Vient ensuite la question de ce qui va être en conditions le week-end prochain. Pour ça il va falloir éplucher les indices au cours de la semaine pour prédire quel type de voie, quel massif, quelle altitude/versants sont à considérer. Le plus important pour progresser sera alors de vérifier si ses prédictions étaient vérifiées après le weekend (de la même manière que le debrief au retour de la course est un moment privilégié pour progresser en alpi). D'ailleurs même si vous faites du ski ce weekend ou si vous ne pouvez pas sortir, rien n'empêche de regarder la météo, de prédire les condis ou le type de voie et le dimanche soir de vérifier si vos prédictions étaient conformes à ce que vous avez observé et/ou en checkant les sorties rentrées sur C2C ou autre !
 
-Ca vous semble compliqué ? Ca l'est sans aucun doute... Mais rassurez vous, ça s'apprend petit à petit et on devient de plus en plus efficace au fil des saisons. Simon Richardson, un des plus grand ouvreurs écossais (des centaines de voies nouvelles en hiver) travaille à plein temps, a une famille et ne peut sortir avec son partenaire que les dimanches d'hiver. Il a réussi tout ça en étant flexible sur les objectifs et en acceptant d'aller grimper où les condis sont bonnes, telles qu'ils les prédites au cours de la semaine.
+Ca vous semble compliqué ? Ca l'est sans aucun doute... Mais rassurez vous, ça s'apprend petit à petit et on devient de plus en plus efficace au fil des saisons. Simon Richardson, un des plus grand ouvreurs écossais (des centaines de voies nouvelles en hiver) travaille à plein temps, a une famille et ne peut sortir avec son partenaire que les dimanches d'hiver. Il a réussi tout ça en étant flexible sur les objectifs et en acceptant d'aller grimper où les condis sont bonnes, telles qu'il les a prédites au cours de la semaine.
 
 Une dernière chose: pour faciliter le choix de la voie, je me fais des listes de voies par massif, dans les difficultés que je cible et je les trie par type de condis nécessaires. Par ex, certaines nécessiteront une période de grand froid ou de redoux, seront plus ou moins usuellement en condis en début ou fin de saison etc. Utiliser un topo papier est souvent plus informatif que camptocamp à cet égard.
 
@@ -234,7 +234,14 @@ Enfin, les topos les mieux faits (ex Queyras) mentionnent le mécanisme de fin d
 
 Comme on le voit, il y a beaucoup de choses à gérer... une façon de rendre le processus un peu plus digeste est de considérer ça comme un apprentissage qui durera probablement plusieurs saisons. Au-delà des premières sorties pour lesquelles l'accompagnement d'un.e alpiniste plus expérimenté.e permettra de pratiquer et donc d'apprendre par osmose, je suggère d'augmenter la difficulté très progressivement et suivant des axes indépendants. Par exemple, si on souhaite grimper un grade au-dessus, on peut prévoir de faire du dry pour se faire les bras, de commencer par de la moulinette sur une cascade qui le permet facilement plutôt que de se lancer sur une cascade du niveau convoité mais située dans un secteur inconnu avec approche longue, risque d'avalanche identifié etc. A l'inverse si l'on souhaite sortir des sentiers battus, on pourra prévoir de baisser un peu son niveau et de grimper plus facile dans le secteur de la voie convoitée histoire de repérer les approches, les descentes et les particularités du lieu et des conditions des cascades peu fréquentées avant de se lancer à vue sur un objectif challenge au niveau grimpe.
 
+## Les outils pour la préparation
 
+* [Le BRA](https://meteofrance.com/meteo-montagne)
+* [La carte](https://www.geoportail.gouv.fr/)
+* [Le balises nivoses](https://meteofrance.com/meteo-montagne/alpes-du-nord/observations)
+* [Les stations Romma](https://romma.fr)
+* [IceFall](https://conditions.ice-fall.com/)
+* [Data-Avalanche](http://www.data-avalanche.org/now)
 ## Le mot de la fin
 
 Alors certain.e.s diront probablement que ce petit texte intellectualise trop une activité qu'on peut pratiquer avant tout au feeling et à l'expérience -  ce qui est probablement vrai, il est le produit de mon expérience et de ma façon de voir les choses! Mais si une phrase ou une idée vous aide ou vous inspire à un moment de votre activité en hiver il aura remplit son office :)  
@@ -243,4 +250,5 @@ Alors certain.e.s diront probablement que ce petit texte intellectualise trop un
 
 ## Bibliographie
 
+* GLACES arts, expériences et techniques - Jérôme Blanc-Gras / Manu Ibarra  
 à venir
