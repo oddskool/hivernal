@@ -258,3 +258,4 @@ Alors certain.e.s diront probablement que ce petit texte intellectualise trop un
 
 * GLACES arts, expériences et techniques - Jérôme Blanc-Gras / Manu Ibarra  
 à venir
+* Chasing the Ephemeral, 50 routes for a successful Scottish winter - Simon Richardson
