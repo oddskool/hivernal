@@ -80,6 +80,7 @@ les indispensables niveau individuel de bas en haut:
 - buff (sous le casque) + bonnet léger si besoin
 - casque d'alpi
 - lunettes de soleil (parfois il y en a, et aussi des débris de glace)
+- frontale chargée (pour l'approche et surtout la descente, les jours sont courts en hiver)
 
 Alors c'est sûr pour démarrer l'activité ça fait pas mal de matos. Les gants fins on peut pas faire sans... les essayer absolument, il faut pouvoir bien bouger les doigts et aussi avoir de la précision pour pouvoir faire un noeud (s'imaginer clipper/déclipper une dégaine). Les crampons et chaussures pour démarrer on prendra ceux d'été, et je conseille d'investir dans des semi-autos dès le départ. Les chaussures peuvent parfois se louer / prêter mais ça peut être galère de trouver sa taille. Pour la veste et le pantalon si on doit acheter prendre pas cher (Simond par ex), au rythme où ça s'use ça vaut pas le coup d'y mettre trop.  Les piolets ça se loue normalement, mais prévoir à l'avance, le stock est limité en général. Le reste vous devriez déjà avoir ou bien ça resservira pour l'alpi estival.
 
@@ -226,9 +227,14 @@ Les risques d'effondrement massif de la structure concernent à mon avis princip
 - fracture horizontale sur un pilier -> la structure est alors "semi-pendue" et peut effondrer 
 - son qui fait vibrer la structure lors de la frappe -> glace sous tension et risque de fractures importantes
 
-L'alimentation en eau de la cascade permet également de comprendre mieux le risque d'effondrement d'une partie: une résurgence peut avoir une température largement positive même par temps très froid, une alimentation par fonte de neige de surface sera stoppée par temps froid en pas ensoleillé.
+L'alimentation en eau de la cascade permet également de comprendre mieux le risque d'effondrement d'une partie: une résurgence peut avoir une température largement positive même par temps très froid, une alimentation par fonte de neige de surface sera stoppée par temps froid ou pas ensoleillé.
 
 Enfin, les topos les mieux faits (ex Queyras) mentionnent le mécanisme de fin de vie de chaque cascade et les risques d'effondrement éventuels. 
+
+### La descente
+
+Les voies peuvent se descendre en rappel ou à pied suivant la configuration. La descente n'est jamais anodine, il convient de bien l'analyser dans le topo: rappels en place ou non, que disent les derniers compte-rendus de sorties, doit-on potentiellement renforcer ou créer les rappels, abalakovs etc.
+A noter qu'une descente de nuit est particulièrement accidentogène. En décembre la nuit tombe vers 16h30, attention donc aux pratiques "new school" qui consistent à viser le "deuxième service": arriver tard pour espérer que les alpinistes arrivé.e.s tôt aient quitté la cascade. Des secours ont lieu régulièrement même sur des cascades toutes équipées comme la Colère du Ciel pour cause de rappel coincé à la nuit. En tout cas toujours avoir une frontale chargée et calculer un retro-planning: à quelle heure je dois être à quel endroit de la cascade pour pouvoir redescendre de jour. Ce qui implique d'avoir une idée moyenne de combien de temps prend une longueur de glace et un rappel. Bien sûr ce temps dépend de la cordée et de l'adéquation entre son niveau et l'objectif visé. Un ordre d'idée grossier pour une cordée moyennement aguerrie (à affiner avec l'expérience bien sûr) pourraît être de l'ordre de 45mn par longueur. Le temps nécessaire aux rappels est à majorer par rapport à ce qu'on peut faire en été (manips avec les gants, cordes qui gèlent etc).
 
 ### Comment gérer le risque
 
